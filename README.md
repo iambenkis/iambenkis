@@ -5,7 +5,7 @@
 
 - 💬 Ask me about **Javascript,html,css,C++**
 
-- 📫 How to reach me **cbenkisenge03@gmail.com**
+- 📫 How to reach me **benkisenge03@gmail.com**
 
 
 ### Blogs posts 
