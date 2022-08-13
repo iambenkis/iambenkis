@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Javascript**
 
-- 💬 Ask me about **Javascript,html,css,C++**
+- 💬 Ask me about **HTML,CSS,Javascript,C++**
 
 - 📫 How to reach me **benkisenge03@gmail.com**
 
