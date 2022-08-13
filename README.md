@@ -1,11 +1,13 @@
 <h1 align="center">Hi 👋, I'm Benjamin Kisenge</h1>
-<h3 align="center">A passionate fullstack developer</h3>
+<h3 align="center">A passionate fullstack developer Open to new opportunities.</h3>
 
 - 🌱 I’m currently learning **Javascript**
 
 - 💬 Ask me about **HTML,CSS,Javascript,C++**
 
 - 📫 How to reach me **benkisenge03@gmail.com**
+
+- Open to new opportiniti
 
 
 ### Blogs posts 
