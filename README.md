@@ -3,16 +3,12 @@
 
 - 🌱 I’m currently learning **Javascript**
 
-- 👨‍💻 My projects are available at [https://portfolio-camile.netlify.app/](https://portfolio-camile.netlify.app/)
+- 💬 Ask me about **Javascript,html,css,C++**
 
-- 💬 Ask me about **react,Javascript,html,css,Mysql,**
-
-- 📫 How to reach me **camilevahviraki@gmail.com**
+- 📫 How to reach me **cbenkisenge03@gmail.com**
 
 
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+### Blogs posts 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
