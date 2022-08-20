@@ -4,7 +4,7 @@
 <summary><h2><img src="https://emojis.slackmojis.com/emojis/images/1453406830/264/success-kid.png?1453406830" align="center"
                 width="28" /> What I currently do</h2></summary>
 
-- 🌱 I’m currently learning **Javascript**
+- 🌱 I’m currently learning **JavaScript**
 - 💬 Ask me about **HTML,CSS,JavaScript,C++**
 - 🤔 I’m looking for new opportunities. 
 - 👯 I’m looking to collaborate on Full-stack-Web application and IoT projects.
