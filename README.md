@@ -20,7 +20,7 @@
 fascinated</b>
     about new challenges to 
     <b>grow </b> and 
-    <b>excel</b>&nbsp.
+    <b>excel</b>&nbsp
   </em> 
   <br>
   
