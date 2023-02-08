@@ -24,7 +24,7 @@ fascinated</b>
   </em> 
   <br>
   
-</p>
+</p>.
 
 <hr>
 
