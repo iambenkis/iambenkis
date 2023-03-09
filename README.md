@@ -12,15 +12,14 @@
 <a href = "mailto: benkisenge03@gmail.com"><img align="center" src="https://simpleicons.org/icons/gmail.svg" height="10" width="10" /></a>
 </p>
 
-
 <p align="center">
   <em>
-   Well, This is ME, Benjamin Kisenge, 
-    <b>Full-Stack Software Developer</b> and a <b>Competitive Programming Enthusiast</b>&nbsp;&nbsp,<br>always <b>
-fascinated</b>
+   Welcome ! I am Benjamin Kisenge, 
+    <b> a Full-Stack Software Developer</b> and a <b>Competitive Programming Enthusiast.</b>
+<br>I'm fascinated</b>
     about new challenges to 
     <b>grow </b> and 
-    <b>excel</b>&nbsp
+    <b>excel.</b>&nbsp
   </em> 
   <br>
   
